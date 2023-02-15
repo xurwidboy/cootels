@@ -1,0 +1,184 @@
+.tab-row .nav-item .nav-link{
+    color: black;
+    padding: 10px 20px;
+    border: 2px solid;
+    margin-right: 20px;
+    transition: 0.3s linear;
+    border-radius: 50px;
+}
+
+.tab-row .nav-item .nav-link:hover{
+   background-color: black;
+    color: white;
+}
+.tab-row .nav-item .active{
+    background-color: black;
+    color: white;
+}
+
+
+
+#demo .carousel-item{
+    height: 640px;
+}
+#demo .carousel-item img{
+    height: 100%;
+    width: 100%;
+}
+#demo .carousel-indicators button{
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+}
+#demo .carousel-indicators .active{
+    background-color: red;
+}
+#demo .carousel-caption{
+    bottom: auto;
+    top: 50%;
+}
+/*#demo .carousel-indicators button{*/
+/*    height: 30px;*/
+/*    border-radius: 50%;*/
+/*    background-color: white;*/
+/*}*/
+/*#demo .carousel-indicators .active{*/
+/*    background-color: red;*/
+/*}*/
+#demo .carousel-caption{
+    bottom: auto;
+    top: 60px;
+}
+h3{
+    font-family: 'sans-serif';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 60px;
+    /* identical to box height */
+
+
+
+}
+.perfect{
+    font-family: 'sans-serif';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+}
+.carousel-control-prev{
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.13);
+    backdrop-filter: blur(7.5px);
+    width: 50px;
+    height: 50px;
+    margin-top: 300px;
+    margin-left: 130px;
+}
+.carousel-control-next{
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.13);
+    backdrop-filter: blur(7.5px);
+    width: 50px;
+    height: 50px;
+    margin-top: 300px;
+    margin-right: 130px;
+}
+
+.box{
+    color: black;
+}
+
+.box22{
+    height: 250px;
+}
+.span{
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+}
+.span-b{
+    margin-left: 33px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: -0.05em;
+}
+.box44{
+    margin-left: 93px;
+}
+
+
+.span1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    letter-spacing: -0.05em;
+
+    /* black */
+
+    color: #373739;
+}
+.span2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    letter-spacing: -0.05em;
+
+    /* black */
+    margin-left: 40px;
+    color: #373739;
+}
+.span4{
+    margin-left: 40px;
+}
+button{
+    background: #D70C17;
+    border-radius: 30px;
+    width: 219px;
+    height: 52px;
+    border: none;
+    color: #ffffff;
+}
+.button{
+    margin-right: 50px;
+    background: #D70C17;
+    border-radius: 30px;
+    width: 219px;
+    height: 52px;
+    border: none;
+    color: #ffffff;
+}
+.div{
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: -0.05em;
+
+    /* grey */
+    margin-top: 15px;
+    color: #A7A9BA;
+
+}
